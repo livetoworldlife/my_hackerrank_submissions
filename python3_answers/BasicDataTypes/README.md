@@ -15,3 +15,12 @@ https://www.hackerrank.com/challenges/nested-list/problem
 4-Finding the percentage
 <br>
 https://www.hackerrank.com/challenges/finding-the-percentage/problem
+
+
+5-Lists
+<br>
+https://www.hackerrank.com/challenges/python-lists/problem
+
+6-Tuples
+<br>
+https://www.hackerrank.com/challenges/python-tuples/problem
