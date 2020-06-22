@@ -1,13 +1,13 @@
 # Basic Data Types
 
 1- List Comprehensions
-
+<br>
 https://www.hackerrank.com/challenges/list-comprehensions/problem
 
-
-
-
+2-Find the Runner-Up Score!
+<br>
 https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem
+
 
 https://www.hackerrank.com/challenges/nested-list/problem
 
