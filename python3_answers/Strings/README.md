@@ -23,3 +23,15 @@ https://www.hackerrank.com/challenges/find-a-string/problem
 6-String Validators
 <br>
 https://www.hackerrank.com/challenges/string-validators/problem
+
+7-Text Alignment
+<br>
+https://www.hackerrank.com/challenges/text-alignment/problem
+
+8-Text Wrap
+<br>
+https://www.hackerrank.com/challenges/text-wrap/problem
+
+9-String Formatting
+<br>
+https://www.hackerrank.com/challenges/python-string-formatting/problem
