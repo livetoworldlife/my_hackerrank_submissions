@@ -35,3 +35,12 @@ https://www.hackerrank.com/challenges/text-wrap/problem
 9-String Formatting
 <br>
 https://www.hackerrank.com/challenges/python-string-formatting/problem
+
+10-Capitalize
+<br>
+https://www.hackerrank.com/challenges/capitalize/problem
+
+11-The Minion Game
+<br>
+https://www.hackerrank.com/challenges/the-minion-game/problem
+
