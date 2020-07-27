@@ -12,4 +12,8 @@ https://www.hackerrank.com/challenges/matching-digits-non-digit-character/proble
 4-Matching Whitespace & Non-Whitespace Character          
 https://www.hackerrank.com/challenges/matching-whitespace-non-whitespace-character/problem
 
+5-Matching Word & Non-Word Character          
+https://www.hackerrank.com/challenges/matching-word-non-word/problem
 
+6-Matching Start & End          
+https://www.hackerrank.com/challenges/matching-start-end/problem
